@@ -1,0 +1,6 @@
+{
+  "name": "ModelViewer 3D Studio & Offline WebGL Editor",
+  "description": "Interactive offline-capable 3D model viewer, procedural CAD assembly inspector, and GLTF/GLB studio editor powered by Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
